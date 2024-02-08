@@ -1,4 +1,4 @@
-This is a code repository for a Search for long-duration local Universe transients and FRB persistent radio source counterparts in the LoTSS DR1 field. Below I include a description of the files included and a summary of the sources being analyzed. 
+This is a code repository for a search for long-duration local Universe transients and FRB persistent radio source counterparts in the LoTSS DR1 field. Below I include a description of the files included and a summary of the sources being analyzed. 
 
 # Files
 
