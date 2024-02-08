@@ -17,4 +17,4 @@ Research Sources.xlsx: This is an excel sheet that contains all of the data used
 
 # Summary of Sources:
 
-The current list of candidates includes 11 sources. 
+The current list of candidates includes 11 sources. These 11 sources 
