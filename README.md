@@ -15,6 +15,4 @@ plot.ipynb: This is a jupyter notebook that contains the analysis of these final
 
 Research Sources.xlsx: This is an excel sheet that contains all of the data used in the analysis that is not directly from SDSS DR16 or LoTSS DR1/DR2. 
 
-
-
-Summary of Sources:
+# Summary of Sources:
