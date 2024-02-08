@@ -1,7 +1,7 @@
 # Research
 This is a code repository for a Search for long-duration local Universe transients and FRB persistent radio source counterparts in the LoTSS DR1 field. Below I include a description of the files included and a summary of the sources being analyzed. 
 
-
+# Files
 
 SDSSgalaxies.fits: This file contains the SDSS DR16 galaxy data for the galaxies that are within the LoTSS DR1 field that are local under a photometric redshift constraint and with an absolute brightness -16 AB or brighter. 
 
