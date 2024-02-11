@@ -13,7 +13,9 @@ Note - There is a file containing the LoTSS DR2 radio sources that are in the DR
 plot.ipynb: This is a jupyter notebook that contains the analysis of these final sources being analyzed as well as other calculations done including spectral index, chance association probability, and projected offset. The plots/analysis includes BPT diagrams, WHAN plot, L-SFR plot, sSFR-Mass plot, WISE color-color plot, offset distribution plot with chance association fit, redshift distribution plot, and galaxy contour images. 
 
 
-Research Sources (1).xlsx: This is an excel sheet that contains all of the data used in the analysis that is not directly from SDSS DR16 or LoTSS DR1/DR2. 
+Research Sources (2).xlsx: This is an excel sheet that contains all of the data used in the analysis that is not directly from SDSS DR16 or LoTSS DR1/DR2. 
+
+Research Sources - Sheet1.csv: This is a cvs file of the excel file to access all of the data in plots.ipynb.
 
 # Summary of Sources:
 
